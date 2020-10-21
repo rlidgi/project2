@@ -26,3 +26,7 @@ To run the application you need to:
     with `python hello.py`
 
     or use Flask environment `flask run`
+
+# View The Full Dockerfile Tutorial on YouTube
+
+[![Dockerfile Tutorial](img/video_tutorial.gif)](https://youtu.be/1d-LRIZRf5s "Click to watch the full tutorial on YouTube")
